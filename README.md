@@ -4,10 +4,7 @@
 
 ### Solutions: [Data Structures & Algorithms](./Data%20Structures%20%26%20Algorithms/)
 
-### Completed Problems
-
-
-### Arrays and Hashing
+### _Arrays and Hashing_
 
 **Easy**
 - [x] Contains Duplicate  
