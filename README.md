@@ -13,7 +13,7 @@ Top K Frequent Elements
 Encode and Decode Strings 
 Product of Array Except Self 
 Valid Sudoku 
-Longest Consecutive Sequence _
+Longest Consecutive Sequence_
 
 Two Pointers:
 _Valid Palindrome 
