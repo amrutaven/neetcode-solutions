@@ -4,27 +4,45 @@
 
 **Completed Problems:**
 
-Arrays and Hashing:
-_Contains Duplicate_ 
-_Valid Anagram_ 
-_Two Sum 
-Group Anagrams 
-Top K Frequent Elements 
-Encode and Decode Strings 
-Product of Array Except Self 
-Valid Sudoku 
-Longest Consecutive Sequence_
+### Arrays and Hashing
 
-Two Pointers:
-_Valid Palindrome 
-Two Sum II Input Array Is Sorted 
-3Sum 
-Container With Most Water 
-Trapping Rain Water_
+**Easy**
+- [x] Contains Duplicate  
+- [x] Valid Anagram  
+- [x] Two Sum  
 
-Stack:
-_Valid Parentheses 
-Evaluate Reverse Polish Notation_
+**Medium**
+- [ ] Group Anagrams  
+- [ ] Top K Frequent Elements  
+- [ ] Encode and Decode Strings  
+- [ ] Product of Array Except Self  
+- [ ] Longest Consecutive Sequence  
+
+**Hard**
+- [ ] Valid Sudoku  
+
+
+### Two Pointers
+
+**Easy**
+- [x] Valid Palindrome  
+
+**Medium**
+- [ ] Two Sum II (Input Array Is Sorted)  
+- [ ] 3Sum  
+- [ ] Container With Most Water  
+
+**Hard**
+- [ ] Trapping Rain Water  
+
+
+### Stack
+
+**Easy**
+- [x] Valid Parentheses  
+
+**Medium**
+- [x] Evaluate Reverse Polish Notation 
 
 
 
