@@ -2,7 +2,8 @@
 
 > Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions`
 
-**Completed Problems:**
+### Completed Problems
+
 
 ### Arrays and Hashing
 
@@ -20,6 +21,7 @@
 - [x] Valid Sudoku  
 
 
+
 ### Two Pointers
 
 **Easy**
@@ -32,6 +34,7 @@
 
 **Hard**
 - [x] Trapping Rain Water  
+
 
 
 ### Stack
