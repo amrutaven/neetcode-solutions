@@ -2,7 +2,29 @@
 
 > Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions`
 
-Completed Problems:
+**Completed Problems:**
+
+Arrays and Hashing:
+_Contains Duplicate 
+Valid Anagram 
+Two Sum 
+Group Anagrams 
+Top K Frequent Elements 
+Encode and Decode Strings 
+Product of Array Except Self 
+Valid Sudoku 
+Longest Consecutive Sequence _
+
+Two Pointers:
+_Valid Palindrome 
+Two Sum II Input Array Is Sorted 
+3Sum 
+Container With Most Water 
+Trapping Rain Water_
+
+Stack:
+_Valid Parentheses 
+Evaluate Reverse Polish Notation_
 
 
 
