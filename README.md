@@ -1,6 +1,7 @@
 # NeetCode Solutions — @amrutaven
 
 > Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions`
+> Solutions Here: Data Structures & Algorithms
 
 ### Completed Problems
 
