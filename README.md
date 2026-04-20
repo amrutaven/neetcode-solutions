@@ -21,7 +21,7 @@
 
 
 
-### Two Pointers
+### _Two Pointers_
 
 **Easy**
 - [x] Valid Palindrome  
@@ -36,7 +36,7 @@
 
 
 
-### Stack
+### _Stack_
 
 **Easy**
 - [x] Valid Parentheses  
