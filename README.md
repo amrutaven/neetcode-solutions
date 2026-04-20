@@ -12,14 +12,12 @@
 - [x] Two Sum  
 
 **Medium**
-- [ ] Group Anagrams  
-- [ ] Top K Frequent Elements  
-- [ ] Encode and Decode Strings  
-- [ ] Product of Array Except Self  
-- [ ] Longest Consecutive Sequence  
-
-**Hard**
-- [ ] Valid Sudoku  
+- [x] Group Anagrams  
+- [x] Top K Frequent Elements  
+- [x] Encode and Decode Strings  
+- [x] Product of Array Except Self  
+- [x] Longest Consecutive Sequence  
+- [x] Valid Sudoku  
 
 
 ### Two Pointers
@@ -28,12 +26,12 @@
 - [x] Valid Palindrome  
 
 **Medium**
-- [ ] Two Sum II (Input Array Is Sorted)  
-- [ ] 3Sum  
-- [ ] Container With Most Water  
+- [x] Two Sum II (Input Array Is Sorted)  
+- [x] 3Sum  
+- [x] Container With Most Water  
 
 **Hard**
-- [ ] Trapping Rain Water  
+- [x] Trapping Rain Water  
 
 
 ### Stack
