@@ -5,9 +5,9 @@
 **Completed Problems:**
 
 Arrays and Hashing:
-_Contains Duplicate 
-Valid Anagram 
-Two Sum 
+_Contains Duplicate_ 
+_Valid Anagram_ 
+_Two Sum 
 Group Anagrams 
 Top K Frequent Elements 
 Encode and Decode Strings 
