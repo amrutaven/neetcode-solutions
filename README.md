@@ -42,7 +42,8 @@
 - [x] Valid Parentheses  
 
 **Medium**
-- [x] Evaluate Reverse Polish Notation 
+- [x] Evaluate Reverse Polish Notation
+- [x] Daily Temperatures
 
 
 
