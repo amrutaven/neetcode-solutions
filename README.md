@@ -7,7 +7,7 @@
 ### _Arrays and Hashing_
 
 **Easy**
-- [x] Contains Duplicate  
+- [x] Contains Duplicate
 - [x] Valid Anagram  
 - [x] Two Sum  
 
@@ -44,6 +44,13 @@
 **Medium**
 - [x] Evaluate Reverse Polish Notation
 - [x] Daily Temperatures
+- [x] Car Fleet
+
+### _Binary Search_
+
+**Easy**
+- [x] Binary Search  
+
 
 
 
