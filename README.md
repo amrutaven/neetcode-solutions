@@ -7,7 +7,7 @@
 ### _Arrays and Hashing_
 
 **Easy**
-- [x] [Contains Duplicate](./Data%20Structures%20%26%20Algorithms/duplicate-integer)
+- [x] [Contains Duplicate](./Data%20Structures%20%26%20Algorithms/duplicate-integer/submission-2.cpp)
 - [x] Valid Anagram  
 - [x] Two Sum  
 
